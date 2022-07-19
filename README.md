@@ -1,21 +1,16 @@
-# CE-Net
-The manuscript has been accepted in TMI.
+# AL-Net
+The manuscript has been accepted in JBHI.
 
-Please start up the "visdom" before running the main.py.
-Then, run the main.py file.
+dataset
+https://pan.baidu.com/share/init?surl=0DpPbvYlt7urt34Mc6JOOg  Extraction code: uono
 
-We have uploaded the DRIVE dataset to run the retinal vessel detection. The other medical datasets will be
-uploaded in the next submission.
 
-The submission mainly contains:
-1. architecture (called CE-Net) in networks/cenet.py
-2. multi-class dice loss in loss.py
-3. data augmentation in data.py
-
-Update:
-We have modified the loss function. 
-The cuda error (or warning) will not occur. 
-
-Update:
-The test code has been uploaded. 
-Besides, we release a pretrained model, which achieves 0.9819 in the AUC scor in the DRIVE dataset. 
+@ARTICLE{Zhao9656603,
+  author={Zhao, Jing and He, Yong-Jun and Zhao, Si-Qi and Huang, Jin-Jie and Zuo, Wang-Meng},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={AL-Net: Attention Learning Network Based on Multi-Task Learning for Cervical Nucleus Segmentation}, 
+  year={2022},
+  volume={26},
+  number={6},
+  pages={2693-2702},
+  doi={10.1109/JBHI.2021.3136568}}
