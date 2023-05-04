@@ -3,7 +3,7 @@ The manuscript has been accepted in JBHI.
 
 dataset
 https://pan.baidu.com/share/init?surl=0DpPbvYlt7urt34Mc6JOOg  Extraction code: uono
-
+https://www.kaggle.com/datasets/zhaojing0522/cervical-nucleus-segmentation
 
 @ARTICLE{Zhao9656603,
   author={Zhao, Jing and He, Yong-Jun and Zhao, Si-Qi and Huang, Jin-Jie and Zuo, Wang-Meng},
