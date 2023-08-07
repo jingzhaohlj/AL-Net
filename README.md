@@ -19,6 +19,8 @@ https://www.kaggle.com/datasets/zhaojing0522/cervical-nucleus-segmentation
   number={6},
   pages={2693-2702},
   doi={10.1109/JBHI.2021.3136568}}
+
+  
 @article{ZHAO2023107732,
   title = {CNSeg: A dataset for cervical nuclear segmentation},
   journal = {Computer Methods and Programs in Biomedicine},
